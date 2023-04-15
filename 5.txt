@@ -1,0 +1,1 @@
+tesla_data = tesla.history(period="max")
